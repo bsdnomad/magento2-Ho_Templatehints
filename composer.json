@@ -1,11 +1,15 @@
 {
-  "name": "honl/magento2-templatehints",
+  "name": "bsdnomad/magento2-templatehints",
   "replace": {
-    "ho-nl/magento2-templatehints": "self.version"
+    "bsdnomad/magento2-templatehints": "self.version"
   },
   "description": "H&O Magento 2 Advanced Template Hints module",
   "homepage": "https://github.com/ho-nl/magento2-Ho_Templatehints",
   "authors": [
+    {
+      "name": "Kliment Ognianov",
+      "email": "kliment.ognianov@gmail.com"
+    },
     {
       "name": "Paul Hachmang - H&O",
       "email": "paul@h-o.nl"
